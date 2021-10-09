@@ -1,0 +1,16 @@
+body {
+  background-color: #daaa0e;
+}
+body table {
+  margin-top: 6rem;
+  width: 60%;
+  height: auto;
+  text-align: center;
+  background-color: white;
+}
+body table th {
+  background-color: black;
+  color: white;
+}
+
+/*# sourceMappingURL=registrations.css.map */
